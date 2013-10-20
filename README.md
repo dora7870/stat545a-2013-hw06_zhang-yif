@@ -1,8 +1,7 @@
 stat545a-2013-hw06_zhang-yif
 ============================
    * Download the following files into an empty directory:
--    - Input data: [`income.tsv`](https://github.com/dora7870/stat545a-2013-hw06_zhang-yif/blob/master/data/income.tsv) 
--    This is a census income data. I found the original dataset [`here`](http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data)
+-    - Input data: [`income.tsv`](https://github.com/dora7870/stat545a-2013-hw06_zhang-yif/blob/master/data/income.tsv) (This is a census income data. I found the original dataset [`here`](http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data))
 -    - Scripts: [`01_dataClean.R`](https://github.com/dora7870/stat545a-2013-hw06_zhang-yif/blob/master/Rscripts/01_dataClean.R), [`02_filterReorder.R`](https://github.com/dora7870/stat545a-2013-hw06_zhang-yif/blob/master/Rscripts/02_filterReorder.R), and [`03_dataAggregate.R`](https://github.com/dora7870/stat545a-2013-hw06_zhang-yif/blob/master/Rscripts/03_dataAggregate.R) 
 -    - Makefile: [`master.R`](https://github.com/dora7870/stat545a-2013-hw06_zhang-yif/blob/master/Rscripts/master.R)
    * Open `master.R` in RStudio and click on "Source".
