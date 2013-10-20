@@ -40,11 +40,7 @@ ggsave("stripplot_incomeHour.png")
 ## make a plot of hours per week on age
 c <- ggplot(iDat, aes(x = age, y = hours.per.week, color = age)) +
   scale_colour_gradientn(colours = rainbow(4)) +
-<<<<<<< HEAD
-  geom_point() +
-=======
   geom_poin() +
->>>>>>> f7ec1c94083087abcd615855c064ce8e768c2e3a
   geom_smooth()
 ggsave("stripplot_ageHour.png")
 
